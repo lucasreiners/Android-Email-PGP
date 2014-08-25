@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Email PGP</string>
+    <string name="title_activity_key_management">Key Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_passphrase_title">Passphrase</string>
+    <string name="dialog_passphrase_body">Please enter your passphrase for you private key:</string>
+    <string name="message_decryption_success">Message successfully decrypted.</string>
+    <string name="message_decryption_error_passphrase">Error decrypting your message. No passphrase for private key specified.</string>
+    <string name="message_decryption_error_privatekey">Error decrypting your message. No private key found.</string>
+    <string name="dialog_keyimport_message">Please enter the email address for the imported key data:</string>
+    <string name="dialog_keyimport_email">Email address</string>
+    <string name="dialog_keyimport_importpublkey">Import public key</string>
+    <string name="dialog_keyimport_importprivkey">Import private key</string>
+    <string name="private_keys">Private keys</string>
+    <string name="public_keys">Public keys</string>
+    <string name="message_keys_saved">Keys successfully saved!</string>
+    <string name="decrypt">Decrypt</string>
+
+</resources>

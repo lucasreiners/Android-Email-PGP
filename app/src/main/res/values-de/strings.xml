@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Email PGP</string>
+    <string name="dialog_passphrase_body">Bitte geben Sie das Kennwort für den privaten Schlüssel ein:</string>
+    <string name="dialog_passphrase_title">Kennwort</string>
+    <string name="title_activity_key_management">Schlüsselverwaltung</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="message_decryption_error_passphrase">Fehler beim Entschlüsseln der Nachricht. Falsches Kennwort für den Schlüssel.</string>
+    <string name="message_decryption_error_privatekey">Fehler beim Entschlüsseln der Nachricht.Der private Schlüssel wurde nicht gefunden.</string>
+    <string name="message_decryption_success">Nachricht erfolgreich entschlüsselt.</string>
+    <string name="dialog_keyimport_email">Email-Adresse</string>
+    <string name="dialog_keyimport_importprivkey">Importiere privaten Schlüssel</string>
+    <string name="dialog_keyimport_importpublkey">Importiere öffentlichen Schlüssel</string>
+    <string name="dialog_keyimport_message">Bitte geben Sie die zu den Schlüsseln gehördene Email-Adresse ein:</string>
+    <string name="message_keys_saved">Schlüssel gespeichert!</string>
+    <string name="private_keys">Private Schlüssel</string>
+    <string name="public_keys">Öffentliche Schlüssel</string>
+    <string name="decrypt">Entschlüsseln</string>
+</resources>
